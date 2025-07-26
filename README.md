@@ -213,7 +213,7 @@ The application is ready for deployment to:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the KUMAR PRAMOD HADOLE License - see the LICENSE file for details.
 
 ## 📞 Support
 
